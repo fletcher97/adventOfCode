@@ -1,0 +1,28 @@
+# Year 2015
+
+List of all projects of the year of 2015:
+
+- [Day 1 - Not Quite Lisp](1/README.md)
+- [Day 2 - I Was Told There Would Be No Math](2/README.md)
+- [Day 3](3/README.md)
+- [Day 4](4/README.md)
+- [Day 5](5/README.md)
+- [Day 6](6/README.md)
+- [Day 7](7/README.md)
+- [Day 8](8/README.md)
+- [Day 9](9/README.md)
+- [Day 10](10/README.md)
+- [Day 11](11/README.md)
+- [Day 12](12/README.md)
+- [Day 13](13/README.md)
+- [Day 14](14/README.md)
+- [Day 15](15/README.md)
+- [Day 16](16/README.md)
+- [Day 17](17/README.md)
+- [Day 18](18/README.md)
+- [Day 19](19/README.md)
+- [Day 20](20/README.md)
+- [Day 21](21/README.md)
+- [Day 22](22/README.md)
+- [Day 23](23/README.md)
+- [Day 24](24/README.md)
